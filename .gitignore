@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+web/dist/
+web/.vite/
+.netlify/
+*.tsbuildinfo
+*.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
